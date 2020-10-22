@@ -1,9 +1,9 @@
 <html>
 <head>
-	<title>...</title>
+	<title>Title</title>
 	<link rel="stylesheet" href="main.css">
 </head>
 <body>
-	Hello World
+	<p>Hello World</p>
 </body>
 </html>
