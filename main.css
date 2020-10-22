@@ -1,4 +1,4 @@
-@media all and (min-width: 480px) and (max-width: 1280px) { 
+@media all and (min-width: 481px) and (max-width: 1280px) { 
 		body{
 		background-color:white;
 		color:black;
@@ -13,11 +13,6 @@
 }
  
 @media all and (max-width: 480px) { 
-		body{
-		background-color:blue;
-		color:white;
-	}
-	
 		#box{
 		height: 8000px;
 		width: 100vw;
