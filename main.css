@@ -21,7 +21,7 @@ body{
 }
 
 #merman{
-	width: 55%;
+	width: 48%;
 	margin: auto auto 48px 28%;
 }
 
@@ -34,6 +34,6 @@ body{
  
 @media all and (max-width: 480px) {
 	.container {
-		width: 100 vw;
+		width: 100vw;
 	}
 }
