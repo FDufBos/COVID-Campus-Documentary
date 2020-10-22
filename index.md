@@ -1,4 +1,9 @@
 <html>
-<head></head>
-<body>Hello World</body>
+<head>
+	<title>...</title>
+	<link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+	
+</body>
 </html>
