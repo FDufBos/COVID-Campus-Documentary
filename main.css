@@ -1,11 +1,15 @@
 @media all and (min-width: 1024px) and (max-width: 1280px) { 
+	body{
+	background-color:white;
+	color:black;
+}
 	#box{
 	height: 8000px;
 	width: 377px;
 	background-image: url("img/bg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-}
+	}
 }
  
 @media all and (min-width: 768px) and (max-width: 1024px) { }
@@ -13,6 +17,10 @@
 @media all and (min-width: 480px) and (max-width: 768px) { }
  
 @media all and (max-width: 480px) { 
+	body{
+	background-color:blue;
+	color:white;
+}
 	
 	#box{
 	height: 8000px;
@@ -20,10 +28,5 @@
 	background-image: url("img/bg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-}
-}
-
-body{
-	background-color:black;
-	color:white;
+	}
 }
