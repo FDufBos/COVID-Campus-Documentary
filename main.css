@@ -15,9 +15,14 @@ body{
 	background-size: contain;
 }
 
-.cutout{
+#boat{
 	width: 85%;
 	margin: 252px auto 0px auto;
+}
+
+#merman{
+	width: 55%;
+	margin: auto auto 48px 28%;
 }
 
 @media all and (min-width: 480px) and (max-width: 1280px) { 
