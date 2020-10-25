@@ -18,11 +18,18 @@ body{
 #boat{
 	width: 85%;
 	margin: 252px auto 0px auto;
+	z-index: 100;
 }
 
 #merman{
 	width: 48%;
 	margin: auto auto 48px 28%;
+}
+
+#tourist{
+	position:absolute;
+	width: 250px;
+	margin: 20 55;
 }
 
 @media all and (min-width: 480px) and (max-width: 1280px) { 
