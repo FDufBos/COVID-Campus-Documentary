@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+
+.container1{
+	margin: 80px;
+}
+
+#title{
+	position: absolute;
+	width: 260px;
+	margin: 19px;
+}
